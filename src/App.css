@@ -99,7 +99,6 @@ nav a:hover {
 
 .tile-image{
     border: 1px solid black;
-    border-style: round;
     width: 250px;
     height: 150px;
 }
