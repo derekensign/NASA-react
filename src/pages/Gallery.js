@@ -1,8 +1,6 @@
 import axios from 'axios'
 import { useState, useEffect } from 'react'
-import GalleryTile from '../components/GalleryTile'
 import {Link, Route} from 'react-router-dom'
-import SingleImage from '../pages/SingleImage'
 import { PopupboxManager, PopupboxContainer } from 'react-popupbox'
 
 const Gallery = (props) => {
